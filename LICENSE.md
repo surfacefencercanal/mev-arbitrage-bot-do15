@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with advanced Automation for MEV arbitrage bot | pump-detection & sandwich-attack-execution, the #1 MEV arbitrage bot. Includes pump-detection and
 
 
 
